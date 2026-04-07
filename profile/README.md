@@ -94,6 +94,10 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 - Cloud-native architecture & distributed systems
 - Security review & Python best practices
 
+## Open Source
+
+CPython core developer since 2019 (contributor since 2014) — currently inactive on CPython itself, but still active in the broader Python ecosystem.
+
 ## Currently Exploring
 
 ![RAG-Anything](https://img.shields.io/badge/RAG--Anything-informational?style=flat)
