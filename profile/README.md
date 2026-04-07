@@ -24,6 +24,7 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
+![Odoo](https://img.shields.io/badge/Odoo-714B67?style=flat&logo=odoo&logoColor=white)
 
 **AI / LLM**
 
@@ -73,6 +74,8 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 **CI/CD**
 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![GitLab Runner](https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat&logo=gitlab&logoColor=white)
 
 **Security & Quality**
 
