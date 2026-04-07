@@ -98,6 +98,8 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 
 CPython core developer since 2019 (contributor since 2014) — currently inactive on CPython itself, but still active in the broader Python ecosystem.
 
+Led by [@matrixise](https://github.com/matrixise).
+
 ## Currently Exploring
 
 ![RAG-Anything](https://img.shields.io/badge/RAG--Anything-informational?style=flat)
