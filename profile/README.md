@@ -33,6 +33,7 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat)
 ![RAG](https://img.shields.io/badge/RAG-informational?style=flat)
+![GraphRAG](https://img.shields.io/badge/GraphRAG-informational?style=flat)
 ![Agents](https://img.shields.io/badge/Agents-informational?style=flat)
 ![MCP](https://img.shields.io/badge/MCP-informational?style=flat)
 
@@ -45,6 +46,17 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat&logo=ansible&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=flat&logo=terraform&logoColor=white)
 ![OpenTofu](https://img.shields.io/badge/OpenTofu-FFDA44?style=flat&logo=opentofu&logoColor=black)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 **Security & Quality**
 
