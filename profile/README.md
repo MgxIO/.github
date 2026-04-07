@@ -91,6 +91,13 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 - Cloud-native architecture & distributed systems
 - Security review & Python best practices
 
+## Currently Exploring
+
+![RAG-Anything](https://img.shields.io/badge/RAG--Anything-informational?style=flat)
+![LightRAG](https://img.shields.io/badge/LightRAG-informational?style=flat)
+![Neo4j](https://img.shields.io/badge/Neo4j-4581C3?style=flat&logo=neo4j&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-informational?style=flat)
+
 ## GitHub Stats
 
 ![Mgx.io stats](https://github-readme-stats.vercel.app/api?username=mgxio&show_icons=true&theme=dark&hide_border=true&count_private=true)
