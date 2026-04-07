@@ -32,6 +32,7 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat&logo=openai&logoColor=white)
 ![Anthropic](https://img.shields.io/badge/Anthropic-Claude-D97757?style=flat)
+![Ollama](https://img.shields.io/badge/Ollama-000000?style=flat&logo=ollama&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-informational?style=flat)
 ![GraphRAG](https://img.shields.io/badge/GraphRAG-informational?style=flat)
 ![Agents](https://img.shields.io/badge/Agents-informational?style=flat)
@@ -50,6 +51,8 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
+![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
@@ -58,8 +61,24 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
 ![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
+**Observability**
+
+![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
+![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+
+**Data**
+
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+
+**CI/CD**
+
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
 **Security & Quality**
 
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat)
+![ruff](https://img.shields.io/badge/ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
 ![Security](https://img.shields.io/badge/Security-informational?style=flat)
 ![Best Practices](https://img.shields.io/badge/Best_Practices-informational?style=flat)
 ![Code Audit](https://img.shields.io/badge/Code_Audit-informational?style=flat)
