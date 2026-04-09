@@ -108,7 +108,11 @@ Remote across Europe (CET/CEST) · Founded 2017 · Python since 2002.
 
 ## Open Source
 
-Led by [@matrixise](https://github.com/matrixise) — CPython core developer since 2019 (contributor since 2014), PSF Fellow, PSF Community Service Award 2016, EuroPython Society Board Member (2019–2020). Currently inactive on CPython itself, but still active in the broader Python ecosystem.
+Led by [@matrixise](https://github.com/matrixise) — PSF Fellow since 2013, CPython core developer since 2019 (contributor since 2014), PSF Community Service Award 2016, EuroPython Society Board Member (2019–2020). Currently inactive on CPython itself, but still active in the broader Python ecosystem.
+
+**Projects**
+- [dsmtpd](https://github.com/matrixise/dsmtpd) — lightweight SMTP server for safe email testing
+- [python.ie](https://python.ie) — maintainer of the Irish Python community website (Django 6.0)
 
 ## Currently Exploring
 
