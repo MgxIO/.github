@@ -1,7 +1,5 @@
 # Mgx.io
 
-CPython core developer. Python at depth — from internals to production AI.
-
 Belgium · Remote across Europe (CET/CEST) · Founded 2017 · Python since 2002.
 
 ## Expertise
