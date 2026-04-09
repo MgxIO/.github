@@ -1,6 +1,7 @@
 # Mgx.io
 
-Belgium-based consulting — Python internals, distributed systems, AI/LLM engineering.
+Belgium-based Python consulting — internals, distributed systems, AI/LLM engineering, DevSecOps.
+Remote across Europe (CET/CEST) · Founded 2017 · Python since 2002.
 
 ## Expertise
 
@@ -21,6 +22,10 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-000000?style=flat&logo=flask&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=flat)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=flat&logo=pydantic&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-244C5A?style=flat&logo=grpc&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter&logoColor=white)
@@ -52,20 +57,17 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 **Databases**
 
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![TimescaleDB](https://img.shields.io/badge/TimescaleDB-FDB515?style=flat)
 ![Redis](https://img.shields.io/badge/Redis-FF4438?style=flat&logo=redis&logoColor=white)
 ![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=flat&logo=influxdb&logoColor=white)
 ![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-**Operating Systems**
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
-
 **Observability**
 
 ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat&logo=prometheus&logoColor=white)
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat&logo=grafana&logoColor=white)
+![OpenTelemetry](https://img.shields.io/badge/OpenTelemetry-000000?style=flat&logo=opentelemetry&logoColor=white)
 
 **Data**
 
@@ -76,15 +78,24 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 ![GitLab CI](https://img.shields.io/badge/GitLab_CI-FC6D26?style=flat&logo=gitlab&logoColor=white)
 ![GitLab Runner](https://img.shields.io/badge/GitLab_Runner-FC6D26?style=flat&logo=gitlab&logoColor=white)
+![Renovate](https://img.shields.io/badge/Renovate-1A1F6C?style=flat&logo=renovate&logoColor=white)
+![Dependabot](https://img.shields.io/badge/Dependabot-025E8C?style=flat&logo=dependabot&logoColor=white)
 
 **Security & Quality**
 
 ![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat&logo=pytest&logoColor=white)
+![Hypothesis](https://img.shields.io/badge/Hypothesis-BD1C2B?style=flat)
+![factory-boy](https://img.shields.io/badge/factory--boy-informational?style=flat)
 ![mypy](https://img.shields.io/badge/mypy-2A6DB2?style=flat)
 ![ruff](https://img.shields.io/badge/ruff-D7FF64?style=flat&logo=ruff&logoColor=black)
-![Security](https://img.shields.io/badge/Security-informational?style=flat)
-![Best Practices](https://img.shields.io/badge/Best_Practices-informational?style=flat)
-![Code Audit](https://img.shields.io/badge/Code_Audit-informational?style=flat)
+![Bandit](https://img.shields.io/badge/Bandit-informational?style=flat)
+![Trivy](https://img.shields.io/badge/Trivy-1904DA?style=flat&logo=aquasecurity&logoColor=white)
+![pip-audit](https://img.shields.io/badge/pip--audit-informational?style=flat)
+
+**Operating Systems**
+
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
+![macOS](https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white)
 
 ## What we do
 
@@ -92,13 +103,12 @@ Belgium-based consulting — Python internals, distributed systems, AI/LLM engin
 - LLM integration: RAG pipelines, agents, MCP, production-grade AI systems
 - Backend & frontend engineering
 - Cloud-native architecture & distributed systems
-- Security review & Python best practices
+- DevSecOps: security-first CI/CD, TDD, ADRs
+- Code audits & architecture reviews
 
 ## Open Source
 
-CPython core developer since 2019 (contributor since 2014) — currently inactive on CPython itself, but still active in the broader Python ecosystem.
-
-Led by [@matrixise](https://github.com/matrixise).
+Led by [@matrixise](https://github.com/matrixise) — CPython core developer since 2019 (contributor since 2014), PSF Fellow, PSF Community Service Award 2016, EuroPython Society Board Member (2019–2020). Currently inactive on CPython itself, but still active in the broader Python ecosystem.
 
 ## Currently Exploring
 
