@@ -1,7 +1,8 @@
 # Mgx.io
 
-Belgium-based Python consulting — internals, distributed systems, AI/LLM engineering, DevSecOps.
-Remote across Europe (CET/CEST) · Founded 2017 · Python since 2002.
+CPython core developer. Python at depth — from internals to production AI.
+
+Belgium · Remote across Europe (CET/CEST) · Founded 2017 · Python since 2002.
 
 ## Expertise
 
